@@ -1,5 +1,4 @@
 {
-
   "require" : {
     "php": ">=8.2",
     "slim/slim": "^4.14",
@@ -22,10 +21,7 @@
   },
   "autoload": {
     "psr-4" : {
-      "abricotdepot\\api\\" : "./src/api",
-      "abricotdepot\\core\\" : "./src/application_core",
-      "abricotdepot\\infra\\" : "./src/infrastructure",
-      "abricotdepot\\web\\" : "./src/web"
+      "Emile\\" : "./src/"
     }
   }
 }
