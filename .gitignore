@@ -1,0 +1,7 @@
+abridepoauth.env
+abridepooutil.env
+abridepoPanier.env
+abridepoStock.env
+abridepoReservation.env
+composer.lock
+vendor/
